@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toobooz
-- 👀 I’m interested in Java Dev
+- 👀 I’m interested in Java Developer, Java backend
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java App
 - 📫 How to reach me know more about Java
